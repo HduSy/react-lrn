@@ -1,21 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f608f35-27f3-4f87-9673-9759f023f148" name="Default Changelist" comment="" />
+    <list default="true" id="8f608f35-27f3-4f87-9673-9759f023f148" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/calculator/components/Button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/calculator/components/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/calculator/components/ButtonPanel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/calculator/components/ButtonPanel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/calculator/components/Calculator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/calculator/components/Calculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/calculator/components/Display.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/calculator/components/Display.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/calculator/logic/calculate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/calculator/logic/isNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/calculator/logic/operate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/pwa-project/sw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/redux-examples/counter/src/components/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applications/redux-examples/counter/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Calculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Clock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HelloMessage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ListItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoginControl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MarkdownEditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NameForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Reservation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TemperatureInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Toggle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/WelcomeDialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/WelcomeDialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/sw-test/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/applications/sw-test/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/sw-test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/applications/sw-test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/sw-test/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/applications/sw-test/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/sw-test/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/applications/sw-test/sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="react-lrn" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/applications/sw-test" />
+  </component>
   <component name="ProjectId" id="1TS8Xc7I2XouKhmqmcRcpuzhTY2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/npm/node_modules/vue-cli" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.12.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/applications/redux-examples/counter/src" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files (x86)\WebStormProjects\react-lrn\src\applications\redux-examples\counter\src" />
+      <recent name="D:\Program Files (x86)\WebStormProjects\react-lrn\src\applications\redux-examples\counter" />
+      <recent name="D:\Program Files (x86)\WebStormProjects\react-lrn\src\applications\redux-examples\counter\components" />
+      <recent name="D:\Program Files (x86)\WebStormProjects\react-lrn\src\applications\redux-example-counter" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program Files (x86)\WebStormProjects\react-lrn\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -29,6 +106,21 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -39,11 +131,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573442176245</updated>
-      <workItem from="1573442177957" duration="494000" />
+      <workItem from="1573442177957" duration="22823000" />
+      <workItem from="1573604788698" duration="5843000" />
+      <workItem from="1573611682658" duration="5083000" />
+      <workItem from="1573691793634" duration="6571000" />
+      <workItem from="1573701187936" duration="8774000" />
+      <workItem from="1573776766841" duration="9464000" />
+      <workItem from="1573952980690" duration="4740000" />
+      <workItem from="1574036311309" duration="13162000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
